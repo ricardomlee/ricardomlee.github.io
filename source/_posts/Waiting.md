@@ -3,17 +3,17 @@ title: Waiting
 date: 2019-07-24 21:55:14
 tags: 笔记
 ---
-##待完成笔记：
+## 待完成笔记：
 -----------------
-###Linux：
+### Linux：
 - manjaro安装，cuda，pytorch
 - newifi3刷机，固件编译
 ----------------------
-###Windows：
+### Windows：
 - VirtulBox esd win7
 - OBS Studio, make
 -----------------------
-###Network：
+### Network：
 - github+hexo
 - qcloud+ssl
 - domain
@@ -21,4 +21,4 @@ tags: 笔记
 - zerotier
 
 -------------------
-##......
+## ......
