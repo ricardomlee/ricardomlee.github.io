@@ -6,9 +6,9 @@ tags: 笔记
 ### 前言
 准备尝试用Boost.Asio 编写Web服务器
 Boost.Asio依赖于如下的库：
- - **Boost.System**：这个库为Boost库提供操作系统支持(http://www.boost.org/doc/libs/1_51_0/doc/html/boost_system/index.html)
+ - **Boost.System**：这个库为Boost库提供操作系统支持。
  - **Boost.Regex**：使用这个库（可选的）以便你重载read_until()或者async_read_until()时使用boost::regex参数。
- - **Boost.DateTime**：使用这个库（可选的）以便你使用Boost.Asio中的计时器
+ - **Boost.DateTime**：使用这个库（可选的）以便你使用Boost.Asio中的计时器。
  - **OpenSSL**：使用这个库（可选的）以便你使用Boost.Asio提供的SSL支持。
 
 开始学习Boost库。
@@ -34,11 +34,11 @@ Boost.Asio依赖于如下的库：
 前面编译的时候`--toolset=msvc-14.1`处使用了vc14.1，对应vs2017平台集
 需要改成`--toolset=msvc-14.2`，此时生成的lib就可以在VS2019中使用了
 
-### boost库
+### Boost库
 
 > Boost provides free peer-reviewed portable C++ source libraries.
 
-[boost 官网](www.boost.org) 下载boost_1_70_0.zip(最新版本)并解压
+[Boost 官网](www.boost.org) 下载boost_1_70_0.zip(最新版本)并解压
 开始菜单找到 vs 2019->Developer Command Prompt for VS 2019，右键以管理员身份打开
 进入 boost_1_70_0 文件夹 `cd C:\boost\boost_1_70_0`
 运行 `bootstrap.bat`
@@ -55,4 +55,4 @@ bjam stage --toolset=msvc-14.2 --without-python --stagedir="c:\Boost" link=stat
 项目属性->C/C++->常规->附加包含目录 添加 `C:\boost\boost_1_70_0`
 项目属性->链接器->常规->附加库目录 添加 `C:\boost\lib`
 Run!
-![run](/img/20190729162137.png)
+![run](/img/20190729172246.png)
