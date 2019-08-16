@@ -1,15 +1,15 @@
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 # ---------------
-# theme_color:
-#   enable: true
-#   main: "#7A7FF1"
-#   paginator: "#7A7FF1"
-#   button_hover: "#FF7242"
-#   text_selection: "#69c46d"
-#   link_color: "#858585"
-#   hr_color: "#A4D8FA"
-#   read-mode-bg_color: '#FAF9DE'
+theme_color:
+  enable: true
+  main: "#191970"
+  paginator: "#7A7FF1"
+  button_hover: "#FF7242"
+  text_selection: "#FF8C00"
+  link_color: "#858585"
+  hr_color: "#A4D8FA"
+  read-mode-bg_color: "#FAF9DE"
 
 # Main menu navigation
 # format: xxx: /xxx/||icon
@@ -44,7 +44,7 @@ favicon: /img/favicon.ico
 
 # Highlight theme
 # ---------------
-highlight_theme: light
+highlight_theme: darker
 highlight_copy: true
 
 code_word_wrap: false
@@ -135,17 +135,17 @@ avatar: /img/avatar.png
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
-top_img: https://i.loli.net/2019/05/22/5ce53eb6dc82757840.jpg
+top_img: https://i.loli.net/2019/08/16/Tc62sHymtfoUiNC.jpg
 
 #the banner image of post
 # if the post not set the post cover and post top image, it will show it
-post_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/post.png
+post_img: https://i.loli.net/2019/08/16/YkjuOrUwV8RFZp2.png
 
 # the default cover of the post
-default_cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
+default_cover: https://i.loli.net/2019/08/16/ygOp2uCdJiDzM8Z.jpg
 
 # the banner image of archive page
-archive_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/archive.jpg
+archive_img: https://i.loli.net/2019/08/16/LYeOuRCDPIxJ6mq.jpg
 
 # if the photo link cannot connect,it will show that
 lodding_bg:
