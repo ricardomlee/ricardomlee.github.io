@@ -130,8 +130,8 @@ cdn:
 
 # Post info settings
 # ---------------
-# avatar: /img/avatar.png
-avatar: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/avatar.png
+avatar: /img/avatar.png
+#avatar: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/Photo/avatar.png
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
@@ -308,7 +308,7 @@ activate_power_mode:
 
 
 announcement:
-  content: 很惭愧，做了一些微小的工作，谢谢。
+  content: 很惭愧，就做了一点微小的工作，谢谢大家。
 
 reward:
   enable: true
@@ -318,7 +318,7 @@ reward:
         text: 微信
     - itemlist:
         img: /img/alipay.jpg
-        text: 支付寶
+        text: 支付宝
 
 related_post:
   enable: true
