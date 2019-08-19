@@ -1,15 +1,15 @@
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 # ---------------
-theme_color:
-  enable: true
-  main: "#191970"
-  paginator: "#7A7FF1"
-  button_hover: "#FF7242"
-  text_selection: "#FF8C00"
-  link_color: "#858585"
-  hr_color: "#A4D8FA"
-  read-mode-bg_color: "#FAF9DE"
+#theme_color:
+#  enable: true
+#  main: "#191970"
+#  paginator: "#7A7FF1"
+#  button_hover: "#FF7242"
+#  text_selection: "#FF8C00"
+#  link_color: "#858585"
+#  hr_color: "#A4D8FA"
+#  read-mode-bg_color: "#FAF9DE"
 
 # Main menu navigation
 # format: xxx: /xxx/||icon
@@ -232,13 +232,13 @@ disqus:
 
 # valine comment system. https://valine.js.org
 valine:
-  enable: false # if you want use valine,please set this value is true
-  appId:   # leancloud application app id
-  appKey:   # leancloud application app key
-  notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
+  enable: true # if you want use valine,please set this value is true
+  appId: 8in2RzemYLKy9CR7HdCiN7z9-gzGzoHsz  # leancloud application app id
+  appKey: iQsHmzB8mHnjRjuhs552RjIG  # leancloud application app key
+  notify: true # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: false # valine verify code (true/false)
   pageSize: 10 # comment list page size
-  avatar: monsterid # gravatar style https://valine.js.org/#/avatar
+  avatar: retro # gravatar style https://valine.js.org/#/avatar
   lang: zh-cn # i18n: zh-cn/en
   placeholder: Please leave your footprints # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header inf
@@ -311,7 +311,7 @@ announcement:
   content: 很惭愧，就做了一点微小的工作，谢谢大家。
 
 reward:
-  enable: true
+  enable: false
   QR_code:
     - itemlist:
         img: /img/wechat.jpg
@@ -374,8 +374,8 @@ hr:
 # 主頁subtitle
 subtitle: 
   enable: true
-  sub1: ，闷声发大财
-  sub2: Make Money\, No War.  #如果有符號 ' ，記得前面加上 \ 
+  sub1: 闷声发大财
+  sub2: MAKE MONEY \n NO WAR.  #如果有符號 ' ，記得前面加上 \ 
 
 #側邊欄顯示設置
 aside:
