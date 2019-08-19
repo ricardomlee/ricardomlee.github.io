@@ -1,4 +1,6 @@
 ---
-title: link
-date: 2019-08-16 16:31:48
+title: 友情链接
+date: 2018-06-07 22:17:49
+type: "link"
+comments: false
 ---
