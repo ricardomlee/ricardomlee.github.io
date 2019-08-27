@@ -7,16 +7,16 @@ tags:
 categories:
 - boost
 ---
-### 指针容器
+## 指针容器
 
-#### boost::ptr_vector
+### boost::ptr_vector
 - 初始化：
 `boost::ptr_vector<int> v;`
 `v.push_back(new int{1});`
 - 基本功能与std::vector<std::unique_ptr<int>>相同
 - 保存的是动态分配的对象，因此back()返回一个动态分配的对象而不是指针
 
-#### boost::ptr_set
+### boost::ptr_set
 ```C++
 #include <boost/ptr_container/ptr_set.hpp>
 #include <boost/ptr_container/indirect_fun.hpp>
@@ -43,7 +43,7 @@ int main()
 - boost::indirect_fun告诉set应该使用什么样的顺序。
 - 其他容器与STL类似：boost::ptr_deque, boost::ptr_list, boost::ptr_map, boost::ptr_unordered_set, and boost::ptr_unordered_map。
 
-#### Inserters 
+### Inserters 
 ```C++
 #include <boost/ptr_container/ptr_vector.hpp>
 #include <boost/ptr_container/ptr_inserter.hpp>
