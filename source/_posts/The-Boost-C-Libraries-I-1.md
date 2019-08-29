@@ -7,7 +7,6 @@ tags:
 categories:
 - boost
 ---
-## 独占所有权
 
 ### scoped_ptr
 ```C++

@@ -7,7 +7,6 @@ tags:
 categories:
 - boost
 ---
-## 指针容器
 
 ### boost::ptr_vector
 - 初始化：

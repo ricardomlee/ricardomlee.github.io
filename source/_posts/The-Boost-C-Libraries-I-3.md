@@ -7,7 +7,6 @@ tags:
 categories:
 - boost
 ---
-## SCOPE_EXIT
 
 ### 使用 BOOST_SCOPE_EXIT
 ```C++
