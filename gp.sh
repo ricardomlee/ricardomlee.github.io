@@ -6,4 +6,6 @@ git add .
 git commit -m $1
 echo "git提交注释:$1"
 git push origin hexo
-echo "push完成..."
+if [ $? != 0 ];then
+	echo "push完成..."
+fi
