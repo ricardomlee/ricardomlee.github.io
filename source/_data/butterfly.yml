@@ -135,7 +135,7 @@ avatar: /img/avatar.png
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
-top_img: https://i.loli.net/2019/08/16/Tc62sHymtfoUiNC.jpg
+top_img: /img/ravenstar.jpg
 
 #the banner image of post
 # if the post not set the post cover and post top image, it will show it
@@ -143,12 +143,12 @@ post_img: https://i.loli.net/2019/08/16/YkjuOrUwV8RFZp2.png
 
 # the default cover of the post
 default_cover: 
-- https://i.loli.net/2019/08/16/ygOp2uCdJiDzM8Z.jpg
-- https://i.loli.net/2019/08/19/sj1gN9TtPmGJS3v.jpg
-- https://i.loli.net/2019/08/19/htd7HDPSMA3pEfK.jpg
+- /img/raven.jpg
+- /img/raven2.jpg
+- /img/btm.jpg
 
 # the banner image of archive page
-archive_img: https://i.loli.net/2019/08/16/LYeOuRCDPIxJ6mq.jpg
+archive_img: /img/raven.jpg
 
 # if the photo link cannot connect,it will show that
 lodding_bg:

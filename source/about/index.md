@@ -1,8 +1,10 @@
 ---
 title: 关于
-date: 2018-06-07 22:17:49
 type: "about"
 comments: false
 ---
 
-### To be continued...
+### ~~24~~ 23岁，是学生
+### TTG爱好者
+### HUSTER
+### Intel DCG(2020)
