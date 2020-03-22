@@ -2,7 +2,7 @@ class:
   class_name: 友情链接
   link_list:
     1:
-      name: sz_hao
+      name: Wang Hao
       link: https://wanghao.tech/
       avatar: https://wanghao.tech/data/imgs/me.jpg
       descr: 这个老哥有、东西
@@ -11,3 +11,8 @@ class:
       link: https://www.bilibili.com/
       avatar: https://i.loli.net/2019/08/19/7cbV8fxChpH4uFY.png
       descr: 同狌交友网站
+    3:
+      name: JCWang
+      link: https://jcwang.me/
+      avatar: https://jcwang.me/images/avatar.jpg
+      descr: 研究僧
