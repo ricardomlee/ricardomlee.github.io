@@ -4,7 +4,7 @@ date: 2020-03-21 18:28:09
 tags: 笔记
 ---
 
-unraid-dockers-transmission 
+unraid-docker-transmission 
 右键，打开Console
 ![tr.png](https://i.loli.net/2020/03/21/C2cJgLpUZmbRd5T.png)
 
