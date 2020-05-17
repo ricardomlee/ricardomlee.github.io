@@ -16,7 +16,7 @@ env:
 # 指定博客分支
 branches:
   only:
-    - BackupBranch 
+    - hexo 
 before_install:
   - npm install -g hexo-cli
 # Start: Build Lifecycle
