@@ -377,7 +377,7 @@ hr:
 # 主頁subtitle
 subtitle: 
   enable: true
-  sub1: 闷声发大财
+  sub1: 闷 声 发 大 财
   sub2: MAKE MONEY \n NO WAR  #如果有符號 ' ，記得前面加上 \ 
 
 #側邊欄顯示設置
