@@ -289,8 +289,8 @@ Flink:
   headline: 友情链接
   info_headline: 我的Blog资料
   name: Blog 名字： Ric's blog
-  address: Blog 地址： https://ttg.codes/
-  avatar: Blog 头像： https://ttg.codes/img/avatar.png
+  address: Blog 地址： https://ricli.me/
+  avatar: Blog 头像： https://ricli.me/img/avatar.png
   info: Blog 简介： 闷声发大财
   comment: 交友
 
@@ -378,7 +378,7 @@ hr:
 subtitle: 
   enable: true
   sub1: 闷声发大财
-  sub2: MAKE MONEY \n NO WAR.  #如果有符號 ' ，記得前面加上 \ 
+  sub2: MAKE MONEY \n NO WAR  #如果有符號 ' ，記得前面加上 \ 
 
 #側邊欄顯示設置
 aside:
